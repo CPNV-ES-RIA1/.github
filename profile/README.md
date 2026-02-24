@@ -1,3 +1,3 @@
 # RIA1 - Project
 
-![Project Overview](./bi-ria-project-overview.png)
+![Project Overview](./ria1-overview.png)
